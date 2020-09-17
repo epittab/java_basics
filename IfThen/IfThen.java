@@ -12,10 +12,26 @@ public class IfThen {
         }
 
         int topScore = 80;
-        int secondTopScore = 60; // change to 81, for example, to invalidate conditional
+        int secondTopScore = 81; // change to 81, for example, to invalidate conditional
 
-        if (topScore > secondTopScore &&  topScore < 100 ) {
+        if (topScore > secondTopScore && topScore < 100 ) {
             System.out.println("Greater than second top score and less than 100.");
+        }
+
+        if ((topScore > secondTopScore) || (topScore < 100)) {
+            System.out.println("Greater than second top score or less than 100.");
+        }
+
+        int newValue = 50;
+        if ( newValue != 50 ) {
+            System.out.println("This is an error.");
+        }
+
+        boolean isCar = false;
+
+        boolean wasCar = !isCar ? true : false;
+        if (wasCar) {
+            System.out.println("wasCar is true");
         }
     }
 }
