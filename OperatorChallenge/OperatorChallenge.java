@@ -8,9 +8,9 @@ class OperatorChallenge {
         //step 2
         double mySecondDouble = 80.00d;
         //step 3
-        double myTotal = (myDouble + mySecondDouble) * 100.00;
+        double myTotal = (myDouble + mySecondDouble) * 100.00d;
         //step 4
-        double remainder = myTotal % 41.00;
+        double remainder = myTotal % 40.00d;
         //step 5
         boolean isRemainderZero = (remainder == 0) ? (true) : (false);
         //step 6
