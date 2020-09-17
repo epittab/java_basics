@@ -19,5 +19,11 @@ public class FloatDoubles {
         float myFloatValue = (float) (5.25); //type casting
         double myDoubleValue = 5.25d;
 
+        double myPounds = 200d;
+        double conversionFactor = 0.45359237d;
+        double kilos = myPounds * conversionFactor;
+
+        System.out.println("The kilos are: " + kilos);
+
     }
 }
