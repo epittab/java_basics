@@ -9,7 +9,7 @@ package MethodOverloading;
 public class MethodOverloading {
 
     public static void main(String[] args) {
-        int newScore = calculateScore("Time", 500);
+        int newScore = calculateScore("Tim", 500);
         System.out.println("New score is " + newScore);
         calculateScore(75);
         calculateScore();
