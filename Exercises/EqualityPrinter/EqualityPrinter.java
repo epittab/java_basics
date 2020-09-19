@@ -1,0 +1,24 @@
+package Exercises.EqualityPrinter;
+
+public class EqualityPrinter {
+    public static void main(String[] args) {
+        printEquality(1, 1, 1);
+        printEquality(1, 1, 2);
+        printEquality(-1, -1, -1);
+        printEquality(1, 2, 3);
+    }
+    public static void printEquality(int a, int b, int c) {
+        if (a < 0 || b < 0 || c < 0) {
+            System.out.println("Invalid Value");
+        }
+        else if (a == b && b == c) {
+            System.out.println("All numbers are equal");
+        }
+        else if (a != b && b != c && c != a) {
+            System.out.println("All numbers are different");
+        }
+        else {
+            System.out.println("Neither all are equal or different");
+        }
+    }
+}
