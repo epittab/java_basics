@@ -1,4 +1,4 @@
-package FloatDoubles;
+package com.Fundamentals.FloatDoubles;
 
 public class FloatDoubles {
     public static void main(String[] args) {

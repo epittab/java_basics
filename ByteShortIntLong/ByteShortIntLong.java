@@ -1,4 +1,4 @@
-package ByteShortIntLong;
+package com.Fundamentals.ByteShortIntLong;
 
 public class ByteShortIntLong {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package Basics;
+package com.Fundamentals.Basics;
 
 public class Basics {
     

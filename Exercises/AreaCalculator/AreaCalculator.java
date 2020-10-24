@@ -1,4 +1,4 @@
-package Exercises.AreaCalculator;
+package com.Fundamentals.Exercises.AreaCalculator;
 
 public class AreaCalculator {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Exercises.PlayingCat;
+package com.Fundamentals.Exercises.PlayingCat;
 
 public class PlayingCat {
     public static void main(String[] args) {

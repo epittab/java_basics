@@ -1,4 +1,4 @@
-package Methods;
+package com.Fundamentals.Methods;
 
 public class Methods {
     public static void main(String[] args) {

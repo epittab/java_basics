@@ -1,4 +1,4 @@
-package Hello;
+package com.Fundamentals.Hello;
 
 public class Hello {
     public static void main(String[] args) {

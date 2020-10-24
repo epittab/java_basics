@@ -1,4 +1,4 @@
-package Exercises.TeenChecker;
+package com.Fundamentals.Exercises.TeenChecker;
 
 /**
  * TeenChecker

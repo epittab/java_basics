@@ -1,4 +1,4 @@
-package Strings;
+package com.Fundamentals.Strings;
 
 public class Strings {
 

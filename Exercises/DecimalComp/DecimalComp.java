@@ -1,4 +1,4 @@
-package Exercises.DecimalComp;
+package com.Fundamentals.Exercises.DecimalComp;
 
 /**
  * DecimalComp

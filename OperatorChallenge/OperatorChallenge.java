@@ -1,4 +1,4 @@
-package OperatorChallenge;
+package com.Fundamentals.OperatorChallenge;
 
 class OperatorChallenge {
     public static void main(String[] args) {

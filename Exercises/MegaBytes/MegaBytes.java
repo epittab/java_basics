@@ -1,4 +1,4 @@
-package Exercises.MegaBytes;
+package com.Fundamentals.Exercises.MegaBytes;
 
 public class MegaBytes {
     public static void main(String[] args) {

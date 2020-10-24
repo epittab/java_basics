@@ -1,4 +1,4 @@
-package Exercises.EqualityPrinter;
+package com.Fundamentals.Exercises.EqualityPrinter;
 
 public class EqualityPrinter {
     public static void main(String[] args) {

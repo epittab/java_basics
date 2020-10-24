@@ -1,4 +1,4 @@
-package Exercises.HeightConverter;
+package com.Fundamentals.Exercises.HeightConverter;
 
 public class HeightConverter {
     public static void main(String[] args) {

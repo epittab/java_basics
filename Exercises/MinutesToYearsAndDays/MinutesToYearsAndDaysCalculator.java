@@ -1,4 +1,4 @@
-package Exercises.MinutesToYearsAndDays;
+package com.Fundamentals.Exercises.MinutesToYearsAndDays;
 
 public class MinutesToYearsAndDaysCalculator {
     public static void main(String[] args) {

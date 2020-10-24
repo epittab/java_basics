@@ -1,4 +1,4 @@
-package CharBoolean;
+package com.Fundamentals.CharBoolean;
 
 public class CharBoolean {
 

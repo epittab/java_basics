@@ -1,4 +1,4 @@
-package Exercises.LeapYear;
+package com.Fundamentals.Exercises.LeapYear;
 
 /**
  * LeapYear

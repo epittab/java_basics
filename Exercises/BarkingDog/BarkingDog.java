@@ -1,4 +1,4 @@
-package Exercises.BarkingDog;
+package com.Fundamentals.Exercises.BarkingDog;
 
 /**
  * BarkingDog

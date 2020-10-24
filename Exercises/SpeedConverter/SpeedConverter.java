@@ -1,4 +1,4 @@
-package Exercises.SpeedConverter;
+package com.Fundamentals.Exercises.SpeedConverter;
 
 public class SpeedConverter {
     public static void main(String[] args){

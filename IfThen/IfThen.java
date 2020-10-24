@@ -1,4 +1,4 @@
-package IfThen;
+package com.Fundamentals.IfThen;
 
 public class IfThen {
 

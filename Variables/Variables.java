@@ -1,4 +1,4 @@
-package Variables;
+package com.Fundamentals.Variables;
 
 public class Variables {
     
